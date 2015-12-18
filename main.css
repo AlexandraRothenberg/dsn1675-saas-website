@@ -138,6 +138,10 @@ a:focus {
     color: #f47d1f
 }
 
+.text-black {
+    color: #000
+}
+
 .section-dark {
   background-color: #ccc;
 }
